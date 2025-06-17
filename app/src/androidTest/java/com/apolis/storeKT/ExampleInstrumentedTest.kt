@@ -1,4 +1,4 @@
-package com.apolis.storekt
+package com.apolis.storeKT
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

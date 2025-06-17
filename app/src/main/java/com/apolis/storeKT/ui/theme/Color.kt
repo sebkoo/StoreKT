@@ -1,4 +1,4 @@
-package com.apolis.storekt.ui.theme
+package com.apolis.storeKT.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
